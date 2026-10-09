@@ -1,0 +1,3 @@
+.env
+.cache
+.test_cache
